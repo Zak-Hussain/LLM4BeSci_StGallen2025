@@ -90,8 +90,7 @@ The course grade will be determined based on the quality of a project pitch at t
 5. In the top-left, click New > More > Colaboratory. If you do not see Colaboratory, you may need to click "Connect more apps", 
 search for 'Colaboratory', and install it. Then click New > More > Colaboratory.
 6. Copy the following code snipped into the first cell of the notebook. Run it (```shift + enter``` or click &#9658; button) to mount your Google Drive to the Colab environment.
-A pop-up will ask you to connect; click through the steps to connect your Google Drive to Colab (you will have to do this
-every time you open a new notebook).
+A pop-up will ask you to connect; click through the steps to connect your Google Drive to Colab (unfortunately, this only works if you give Google full permissions).
 ```
 from google.colab import drive
 drive.mount("/content/drive")
