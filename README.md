@@ -107,4 +107,4 @@ drive.mount("/content/drive")
 
 You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
 
-You are now ready to work through all the exercises in the course! 
+You are now ready to work through all the exercises in the course! :) 
