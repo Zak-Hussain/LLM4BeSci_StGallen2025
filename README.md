@@ -24,8 +24,9 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
+01:00 PM - 01:45 PM: [Exercise: Clarifying personality psychology](day_2/day_2.ipynb)<br>
+01:45 PM - 02:15 PM: Walkthrough<br>
+02:15 PM - 02:30 PM: Break<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 3
@@ -34,8 +35,9 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Exercise: Classifying media bias w/ zero & few-shot](day_3/day_3a.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Classifying media bias w/ fine-tuning](day_3/day_3b.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
+01:00 PM - 01:45 PM: [Exercise: Classifying media bias w/ fine-tuning](day_3/day_3b.ipynb)<br>
+01:45 PM - 02:15 PM: Walkthrough<br>
+02:15 PM - 02:30 PM: Break<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 4
@@ -44,8 +46,9 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Exercise: Numeracy](day_4/day_4a.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4b.ipynb)<br>
-02:00 PM - 02:30 PM: Walkthrough<br>
+01:00 PM - 01:45 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4b.ipynb)<br>
+01:45 PM - 02:15 PM: Walkthrough<br>
+02:15 PM - 02:30 PM: Break<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 5
