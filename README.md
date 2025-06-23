@@ -4,10 +4,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 
 By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussain](https://zak-hussain.github.io/)
 
-### Feedback
-
-Please be so kind to provide us feedback (5 min) via [this link](https://docs.google.com/forms/d/e/1FAIpQLSdh16Hm7rGQOr82oQIwlSrnRwqRWq4YcNmN1UVFM40nduDW2A/viewform?usp=sf_link). Thank you!
-
 ### Schedule
 
 #### Day 1
